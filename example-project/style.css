@@ -1,0 +1,32 @@
+/* This is the CSS code for the style of the page: */
+
+/* The h1 selector means that style here will relate to 'h1'/heading elements */
+h1 {
+    /* The color property here sets the text color for 'h1' elements: */
+    color: orange;
+}
+
+h2 {
+    /* This color property changes the text color to blue */
+    color: blue;
+    /* This background-color property changes the background color to chartreuse */
+    background-color: chartreuse;
+}
+
+.header {
+    background-color: darkred;
+    padding: 30px;
+    text-align: center;
+}
+
+.main {
+    background-color: darkkhaki;
+    color: dimgrey;
+    width: 60%;
+    margin: auto;
+    padding: 20px 60px;
+}
+
+body {
+    margin: 0px;
+}
